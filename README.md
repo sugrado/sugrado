@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 My LinkedIn: <a href="https://linkedin.com/in/sugrado" target="blank">https://linkedin.com/in/sugrado</a><br>
 E-Mail:  <a href = "mailto:gorkemarik2018@gmail.com">gorkemarik2018@gmail.com</a><br>
 </p>
