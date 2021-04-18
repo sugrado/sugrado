@@ -4,4 +4,4 @@
 [gorkemarik2018@gmail.com](mailto:gorkemarik2018@gmail.com)
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugrado&show_icons=true&locale=en&layout=compact" alt="sugrado" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugrado&layout=compact&theme=dark" alt="sugrado" />
