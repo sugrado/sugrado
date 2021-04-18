@@ -1,5 +1,5 @@
 <p align="left">
-Linkedin: <a href="https://linkedin.com/in/sugrado" target="blank"><img align="center" src="https://marka-logo.com/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="sugrado" height="40" width="70" /></a><br>
+My LinkedIn: <a href="https://linkedin.com/in/sugrado" target="blank"><img align="center" src="https://marka-logo.com/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="sugrado" height="40" width="70" /></a><br>
 E-mail: gorkemarik2018@gmail.com <br>
 </p>
 
